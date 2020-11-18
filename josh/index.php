@@ -248,6 +248,19 @@
                                                 </div>
                                             </a>
                                         </div>
+                                        
+                                        <div class="grid-item element-item p-one-third image">
+                                            <a class="item-link" href="images/autoRosterPic.png" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/dashmaster.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Auto Roster</p>
+                                                        <p class="portfolio-cat">Sole programmer for an Unity game in Team Liquid's Hackathon, a 36 hour hackathon</p>
+                                                        <p class="portfolio-cat">Won an award</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
 
                                         <!-- <div class="grid-item element-item p-one-third image">
                                             <a class="item-link" href="images/item_02.jpg" data-rel="prettyPhoto[portfolio]">
