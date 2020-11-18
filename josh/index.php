@@ -250,7 +250,7 @@
                                         </div>
                                         
                                         <div class="grid-item element-item p-one-third image">
-                                            <a class="item-link" href="images/autoRosterPic.png" data-rel="prettyPhoto[portfolio]">
+                                            <a class="item-link" href="images/autoRosterPic.jpg" data-rel="prettyPhoto[portfolio]">
                                                 <img src="images/dashmaster.png" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
