@@ -250,8 +250,8 @@
                                         </div>
                                         
                                         <div class="grid-item element-item p-one-third image">
-                                            <a class="item-link" href="images/autoRosterPic.jpg" data-rel="prettyPhoto[portfolio]">
-                                                <img src="images/dashmaster.png" alt="" />
+                                            <a class="item-link" href="https://www.youtube.com/watch?v=ywEeGXxZEm4&feature=emb_logo" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/autoRosterPic.jpg" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
                                                         <p class="portfolio-text">Auto Roster</p>
