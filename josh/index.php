@@ -341,13 +341,13 @@
                                     <div class="one-half width-40 last">
                                         <h2 class="entry-title section-title">Cover letter</h2>
                                         <p class="section-info blue">
-                                            I am a programmer who’s currently pursuing a Bachelor degree in Computer Science, who wishes to put a foot in the programming industry.
+                                            I am a programmer with a Bachelor degree in Computer Science, who wishes to put a foot in the programming industry.
                                         </p>
                                         <p>
-                                            I am incredibly passionate about software development and already had experiences in the steps needed - such as developing, coding, debugging. My background includes already being in being a software intern at Foam Technician, where I programmed robotic parts for a toy product that will be shipped the following year. The tasks I was in charge included the solenoid, rotary, and the OLED screen display. My other job experiences include tutoring for youths in junior and highschool year as math/computer science teacher and hosting Unity Workshop my fellow college student body. 
+                                            I am incredibly passionate about software development and already had experiences in the steps needed - such as developing, coding, debugging. My background includes already being a software intern at Foam Technician, where I programmed robotic parts for a toy product that will be shipped the following year. The tasks I was in charge included the solenoid, rotary, and the OLED screen display. My other job experiences include tutoring for youths in junior and highschool as a math/computer science teacher and hosting Unity Workshop my fellow college student body. 
                                         </p>
                                         <p>
-                                            I am also currently the President of Cal State University Long Beach’s ACM (Association of Computing Machinery), which is the only computer science organization in CSULB. I have learned how to manage various projects- such as Programming Team, WebJams, Unity Workshop, and Cyber Security. I have also learned how to manage my time wisely and do my tasks in hand. 
+                                            As a game developer, I’ve spent a lot of my programming experience focused on Unity. I have won multiple awards in hackathons solely based on creating video games. The projects that I am proud of are on my website https://joshsong.herokuapp.com. I was also the President of Cal State University Long Beach’s ACM (Association of Computing Machinery), which is the only computer science organization in CSULB. I have learned how to manage various projects- such as Programming Team, WebJams, Unity Workshop, and Cyber Security. I have also learned how to manage my time wisely and do my tasks in hand. 
                                         </p>
 
                                         <p>
