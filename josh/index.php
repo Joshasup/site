@@ -292,42 +292,47 @@
                                             <li class="timeline-event">
                                                 <span class="timeline-circle"></span>
                                                 <div class="timeline-event-content">                                    
-                                                    <b>Game Dev Unity Workshop Lead</b><br></br>
-                                                    In charge of multiple groups filled with beginners each tasked to finish a game by the end of the semester;
-                                                    Helped developed over 15+ games of many different type of genres
-                                                </div>
-                                                <div class="timeline-event-date">2018</div>
-                                            </li>
+                                                    <b>Programming/Math Tutor at Perfect Score Academy</b><br></br>
+                                                    Taught programming and mathematics to middle/highschoolers. Programming lessons
+                                                    involved the basics of Python and creating a 2D RPG game in Unity. Students had no
+                                                    experience with programming and after one year of teaching, they managed to learn the
+                                                    basics and advanced programming techniques to make an Unity game.
 
-                                            <li class="timeline-event">
-                                                <span class="timeline-circle"></span>
-                                                <div class="timeline-event-content">
-                                                    <b>Intern at Foam Technician </b><br></br>
-                                                    Lead the programming for the robotics for a NERF toy product;
-                                                    Arduino programming that includes solenoid, buttons, rotary encoders, and an OLED screen that displays ammo and a menu
-                                                </div>
-                                                <div class="timeline-event-date">2019</div>
-                                            </li>
-
-                                            <li class="timeline-event">
-                                                <span class="timeline-circle"></span>
-                                                <div class="timeline-event-content">
-                                                    <b>Comp Science / Math Tutor at Perfect Score Academy</b><br></br>
-                                                    Tutored 5th-9th grade in mathematics and computer science; All students received an A in mathematics and had a broad understanding in
-                                                    programming, which resulted in creating their own Python or Unity game by the
-                                                    end of the session
-                                                </div>
-                                                <div class="timeline-event-date">2019</div>
-                                            </li>
-
-                                            <li class="timeline-event">
-                                                <span class="timeline-circle"></span>
-                                                <div class="timeline-event-content">
-                                                    <b>President of CSULB Association of Computing Machinery (ACM)</b><br></br> 
-                                                    Lead an organization with over 400+ members ;Managed multiple projects such as Programming team, WebJams, Unity Workshops, and Cyber Security in a macro-scale; 
-                                                    Conduct Beachhacks, a 24-hour long hackathon hosted in CSULB, by planning out logistics and contacting sponsors, such as, Google, Corsair, MLH, MSI, etc
                                                 </div>
                                                 <div class="timeline-event-date">2020</div>
+                                            </li>
+
+                                            <li class="timeline-event">
+                                                <span class="timeline-circle"></span>
+                                                <div class="timeline-event-content">
+                                                    <b>Software Engineer at Foam Technician </b><br></br>
+                                                    Sole programmer for the robotics for a smart NERF toy product; Arduino
+                                                    programming that includes solenoid, buttons, rotary encoders, and an OLED screen
+                                                    that displays ammo and a menu options to change fire rate, type of fire, and magazine size.
+                                                </div>
+                                                <div class="timeline-event-date">2019</div>
+                                            </li>
+
+                                            <li class="timeline-event">
+                                                <span class="timeline-circle"></span>
+                                                <div class="timeline-event-content">
+                                                    <b>President of CSULB Association of Computing Machinery (ACM)</b><br></br>
+                                                    Lead an organization with over 400+ members ;Managed multiple projects such as
+                                                    Programming team, WebJams, Unity Workshops, and Cyber Security in a
+                                                    macro-scale; Conduct Beachhacks, a 24-hour long hackathon hosted in CSULB, by
+                                                    planning out logistics and contacting sponsors, such as, Google, Corsair, MLH, MSI
+                                                </div>
+                                                <div class="timeline-event-date">2019</div>
+                                            </li>
+
+                                            <li class="timeline-event">
+                                                <span class="timeline-circle"></span>
+                                                <div class="timeline-event-content">
+                                                    <b>Game Dev Unity Workshop Lead (ACM)</b><br></br> 
+                                                    In charge of multiple groups filled with beginners each tasked to finish a game by the end of
+                                                    the semester; Helped develop over 15+ games of many different types of genres.
+                                                </div>
+                                                <div class="timeline-event-date">2018</div>
                                             </li>   
 
                                         </ul>
