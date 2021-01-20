@@ -128,7 +128,7 @@
                                         </p>
 
                                         <div class="button-group-wrapper">
-                                            <a href="./images/JOSHSONG_Resume2021.pdf" target="_blank" class="button" download>Download Resume</a> 
+                                            <a href="./images/JOSHSONG__Resume2021.pdf" target="_blank" class="button" download>Download Resume</a> 
                                             <a href="#portfolio" class="button button-gradient">Check My Portfolio</a>                                                                   
                                         </div>
                                     </div> 
