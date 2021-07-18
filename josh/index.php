@@ -222,15 +222,13 @@
                                         </div> -->
 
                                         <div class="grid-item element-item p-one-third video">
-                                            <a class="item-link" href="https://vimeo.com/393640746" data-rel="prettyPhoto[portfolio]">
-                                                <img src="images/perspectus.png" alt="" />
+                                            <a class="item-link" href="https://imgur.com/a/Y0Xd3Ap" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/hypelike4.png" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
-                                                        <p class="portfolio-text">Perspectus</p>
-                                                        <p class="portfolio-cat">Unity Puzzle Platformer that rotates camera to four 2D views to realign
-                                                            platforms</p>
-                                                        <p class="portfolio-cat">The lead designer of each level and how to correctly change the world based on
-                                                            the camera</p>
+                                                        <p class="portfolio-text">Hypelike</p>
+                                                        <p class="portfolio-cat">MOBA Battle Royale made in Unity.</p>
+                                                        <p class="portfolio-cat">Gameplay designer and programmer in a small project of 5. Was in charge of characters, abilities, items, and events. </p>
                                                     </div>
                                                 </div>
                                             </a>
