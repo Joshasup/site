@@ -222,7 +222,7 @@
                                         </div> -->
 
                                         <div class="grid-item element-item p-one-third video">
-                                            <a class="item-link" href="images/dashmaster.png" target="_blank" data-rel="prettyPhoto[portfolio]">
+                                            <a class="item-link" href="https://imgur.com/a/Y0Xd3Ap" target="_blank" data-rel="prettyPhoto[portfolio]">
                                                 <img src="images/hypelike4.png" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
