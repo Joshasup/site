@@ -275,6 +275,88 @@
                                     </div>                
                                 </div>   
                             </div>
+                            <div class="">
+                                <h2 class="entry-title section-title">Hypelike</h2>
+                                <div id="portfolio-wrapper" class="relative">
+                                    <div class="category-filter">
+                                        <div class="category-filter-icon"></div>                       
+                                    </div>
+                                    <div class="category-filter-list button-group filters-button-group">
+                                        <div class="button is-checked" data-filter="*">All</div>
+                                        <!-- <div class="button" data-filter=".text">Text</div>
+                                        <div class="button" data-filter=".video">Video</div>
+                                        <div class="button" data-filter=".image">Image</div>                                         -->
+                                    </div>
+                                    <div class="portfolio-load-content-holder"></div>
+                                    <div class="grid" id="portfolio-grid">                                                            
+                                        <div class="grid-sizer"></div>
+
+                                        <!-- <div id="p-item-1" class="grid-item element-item p-one-third text">
+                                            <a class="item-link ajax-portfolio" href="portfolio-1.html" data-id="1">
+                                                <img src="images/portfolio1.jpg" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Home</p>
+                                                        <p class="portfolio-cat">Text</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div> -->
+
+                                        <div class="grid-item element-item p-one-third video">
+                                            <a href="images/hypelike1.png" target="_blank" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/hypelike1.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Hypelike</p>
+                                                        <p class="portfolio-cat">MOBA Battle Royale made in Unity.</p>
+                                                        <p class="portfolio-cat">Gameplay designer and programmer in a small project of 5. Was in charge of characters, abilities, items, and events. </p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                        <div class="grid-item element-item p-one-third image">
+                                            <a  href="images/hypelike2.png" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/hypelike2.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Dash Master</p>
+                                                        <p class="portfolio-cat">Sole programmer for an Unity game in RoseHacks, a 24 hour hackathon</p>
+                                                        <p class="portfolio-cat">Won an award competing against 34 completed projects</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="grid-item element-item p-one-third image">
+                                            <a href="images/hypelike3.png" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/hypelike3.png" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Auto Roster</p>
+                                                        <p class="portfolio-cat">Sole programmer for an Unity game in Team Liquid's Hackathon, a 36 hour hackathon</p>
+                                                        <p class="portfolio-cat">Won an award</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                        <!-- <div class="grid-item element-item p-one-third image">
+                                            <a class="item-link" href="images/item_02.jpg" data-rel="prettyPhoto[portfolio]">
+                                                <img src="images/portfolio6.jpg" alt="" />
+                                                <div class="portfolio-text-holder">
+                                                    <div class="portfolio-text-wrapper">
+                                                        <p class="portfolio-text">Bottle</p>
+                                                        <p class="portfolio-cat">Image</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div> -->
+
+                                    </div>                
+                                </div>   
+                            </div>
                         </div>
                     </div>
 
