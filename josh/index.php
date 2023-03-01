@@ -254,6 +254,7 @@
                                                     <div class="portfolio-text-wrapper">
                                                         <p class="portfolio-text">Saleblazers</p>
                                                         <p class="portfolio-cat">In Saleblazers, build the best shopping district of all time solo or with friends.</p>
+                                                        <p class="portfolio-cat">Worked as programmer/designer with a focus on the combat system. </p>
                                                     </div>
                                                 </div>
                                             </a>
