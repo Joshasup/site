@@ -194,7 +194,7 @@
                     <div id="portfolio" class="section">                        
                         <div class="section-wrapper block">
                             <div class="">
-                                <h2 class="entry-title section-title">Saleblazer</h2>
+                                <h2 class="entry-title section-title">Saleblazers</h2>
                                 <div id="portfolio-wrapper" class="relative">
                                     <div class="category-filter">
                                         <div class="category-filter-icon"></div>                       
@@ -219,7 +219,7 @@
                                                     </div>
                                                 </div>
                                             </a>
-                                        </div> -->
+                                        </div> 
 
                                         <div class="grid-item element-item p-one-third video">
                                             <a class="item-link" href="images/hypelike4.png" target="_blank" data-rel="prettyPhoto[portfolio]">
@@ -246,15 +246,14 @@
                                                 </div>
                                             </a>
                                         </div>
-                                        
-                                        <div class="grid-item element-item p-one-third image">
+                                        -->
+                                        <div class="grid-item element-item p-one">
                                             <a class="item-link" href="https://www.youtube.com/watch?v=30CqiuRzJkg" data-rel="prettyPhoto[portfolio]">
                                                 <img src="images/autoRosterPic.jpg" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
-                                                        <p class="portfolio-text">Auto Roster</p>
-                                                        <p class="portfolio-cat">Sole programmer for an Unity game in Team Liquid's Hackathon, a 36 hour hackathon</p>
-                                                        <p class="portfolio-cat">Won an award</p>
+                                                        <p class="portfolio-text">Saleblazers</p>
+                                                        <p class="portfolio-cat">In Saleblazers, build the best shopping district of all time solo or with friends.</p>
                                                     </div>
                                                 </div>
                                             </a>
