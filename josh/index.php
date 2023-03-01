@@ -249,7 +249,7 @@
                                         -->
                                         <div class="grid-item element-item p-one">
                                             <a class="item-link" href="https://www.youtube.com/watch?v=30CqiuRzJkg" data-rel="prettyPhoto[portfolio]">
-                                                <img src="images/autoRosterPic.jpg" alt="" />
+                                                <img src="images/saleblazerTrailer.png" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
                                                         <p class="portfolio-text">Saleblazers</p>
