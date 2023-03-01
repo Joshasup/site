@@ -194,7 +194,7 @@
                     <div id="portfolio" class="section">                        
                         <div class="section-wrapper block">
                             <div class="">
-                                <h2 class="entry-title section-title">Projects</h2>
+                                <h2 class="entry-title section-title">Saleblazer</h2>
                                 <div id="portfolio-wrapper" class="relative">
                                     <div class="category-filter">
                                         <div class="category-filter-icon"></div>                       
@@ -248,7 +248,7 @@
                                         </div>
                                         
                                         <div class="grid-item element-item p-one-third image">
-                                            <a class="item-link" href="https://www.youtube.com/watch?v=ywEeGXxZEm4&feature=emb_logo" data-rel="prettyPhoto[portfolio]">
+                                            <a class="item-link" href="https://www.youtube.com/watch?v=30CqiuRzJkg" data-rel="prettyPhoto[portfolio]">
                                                 <img src="images/autoRosterPic.jpg" alt="" />
                                                 <div class="portfolio-text-holder">
                                                     <div class="portfolio-text-wrapper">
