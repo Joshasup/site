@@ -386,32 +386,34 @@
                                             <li class="timeline-event">
                                                 <span class="timeline-circle"></span>
                                                 <div class="timeline-event-content">
+                                                    <b>Combat Tech Designer at Airstrafe Interactive </b><br></br>
+                                                    Combat designer and programmer for Salesblazer, a survival open-world game about shopkeeping. 
+                                                Sole designer for the entire combat system from the ground-up in creating a combat system where 
+                                                players can use any item to fight. Programmed each attack and most of enemy AI behavior. 
+                                                Directed the animation team in creating combat moves and created the SFX/VFX along with it. 
+
+                                                </div>
+                                                <div class="timeline-event-date">2019</div>
+                                            </li>
+
+                                            <li class="timeline-event">
+                                                <span class="timeline-circle"></span>
+                                                <div class="timeline-event-content">
+                                                    <b>Gameplay Designer/Programmer at Bapbap </b><br></br>
+                                                    Lead gameplay designer and programmer for Bapbap, MOBA Battle Royale game. 
+                                                    Designed multiple characters and abilities, balanced said abilities, created in game events and items, and more. 
+
+                                                </div>
+                                                <div class="timeline-event-date">2019</div>
+                                            </li>
+
+                                            <li class="timeline-event">
+                                                <span class="timeline-circle"></span>
+                                                <div class="timeline-event-content">
                                                     <b>Software Engineer at Foam Technician </b><br></br>
                                                     Sole programmer for the robotics for a smart NERF toy product; Arduino
                                                     programming that includes solenoid, buttons, rotary encoders, and an OLED screen
                                                     that displays ammo and a menu options to change fire rate, type of fire, and magazine size.
-                                                </div>
-                                                <div class="timeline-event-date">2019</div>
-                                            </li>
-
-                                            <li class="timeline-event">
-                                                <span class="timeline-circle"></span>
-                                                <div class="timeline-event-content">
-                                                    <b>President of CSULB Association of Computing Machinery (ACM)</b><br></br>
-                                                    Lead an organization with over 400+ members ;Managed multiple projects such as
-                                                    Programming team, WebJams, Unity Workshops, and Cyber Security in a
-                                                    macro-scale; Conduct Beachhacks, a 24-hour long hackathon hosted in CSULB, by
-                                                    planning out logistics and contacting sponsors, such as, Google, Corsair, MLH, MSI
-                                                </div>
-                                                <div class="timeline-event-date">2019</div>
-                                            </li>
-
-                                            <li class="timeline-event">
-                                                <span class="timeline-circle"></span>
-                                                <div class="timeline-event-content">
-                                                    <b>Game Dev Unity Workshop Lead (ACM)</b><br></br> 
-                                                    In charge of multiple groups filled with beginners each tasked to finish a game by the end of
-                                                    the semester; Helped develop over 15+ games of many different types of genres.
                                                 </div>
                                                 <div class="timeline-event-date">2018</div>
                                             </li>   
@@ -422,7 +424,7 @@
                                     <div class="one-half width-40 last">
                                         <h2 class="entry-title section-title">Cover letter</h2>
                                         <p class="section-info blue">
-                                            I am a programmer with a Bachelor degree in Computer Science, who wishes to put a foot in the programming industry.
+                                            Game Designer / Game Programmer / Competitive Gamer.
                                         </p>
                                         <p>
                                             I am incredibly passionate about software development and already had experiences in the steps needed - such as developing, coding, debugging. My background includes already being a software intern at Foam Technician, where I programmed robotic parts for a toy product that will be shipped the following year. The tasks I was in charge included the solenoid, rotary, and the OLED screen display. My other job experiences include tutoring for youths in junior and highschool as a math/computer science teacher and hosting Unity Workshop my fellow college student body. 
