@@ -369,7 +369,8 @@
                                     <div class="one-half width-55">
                                         <h2 class="entry-title section-title">Experience</h2>
 
-                                        <ul class="timeline-holder">    
+                                        <ul class="timeline-holder"> 
+                                            <!--
                                             <li class="timeline-event">
                                                 <span class="timeline-circle"></span>
                                                 <div class="timeline-event-content">                                    
@@ -382,6 +383,7 @@
                                                 </div>
                                                 <div class="timeline-event-date">2020</div>
                                             </li>
+                                             -->  
 
                                             <li class="timeline-event">
                                                 <span class="timeline-circle"></span>
@@ -393,7 +395,7 @@
                                                 Directed the animation team in creating combat moves and created the SFX/VFX along with it. 
 
                                                 </div>
-                                                <div class="timeline-event-date">2019</div>
+                                                <div class="timeline-event-date">2022</div>
                                             </li>
 
                                             <li class="timeline-event">
@@ -404,7 +406,7 @@
                                                     Designed multiple characters and abilities, balanced said abilities, created in game events and items, and more. 
 
                                                 </div>
-                                                <div class="timeline-event-date">2019</div>
+                                                <div class="timeline-event-date">2020</div>
                                             </li>
 
                                             <li class="timeline-event">
