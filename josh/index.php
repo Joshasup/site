@@ -356,7 +356,7 @@
 
                                     </div>                
                                 </div>   
-                                 <center> Play the game <a href="https://dev04.hypelike.io/" target="_blank">here!</a>.<center>
+                                 <center> Play the game <a href="https://bapbap.gg/" target="_blank">here!</a>.<center>
                             </div>
                         </div>
                     </div>
