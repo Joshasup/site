@@ -195,6 +195,10 @@
                         <div class="section-wrapper block">
                             <div class="">
                                 <h2 class="entry-title section-title">Saleblazers</h2>
+
+                                <div style="text-align: center;">
+                                <iframe src="https://www.youtube.com/watch?v=30CqiuRzJkg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+                                </div>
                                 <div id="portfolio-wrapper" class="relative">
                                     <div class="category-filter">
                                         <div class="category-filter-icon"></div>                       
@@ -247,9 +251,7 @@
                                             </a>
                                         </div>
                                         -->
-                                        <div style="text-align: center;">
-                                        <iframe src="https://www.youtube.com/watch?v=30CqiuRzJkg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-                                        </div>
+                                        
                                         <!--
                                         <div class="grid-item element-item p-one">
                                             <a class="item-link" href="https://www.youtube.com/watch?v=30CqiuRzJkg" data-rel="prettyPhoto[portfolio]">
